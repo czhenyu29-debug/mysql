@@ -39,5 +39,12 @@ People always engage in endless debates over who is the greatest of all time (GO
 2. **Player Longevity & Games Played by Era**
 - **Size Evolution**:
   - Average height and weight peaked in the 2010s (202.8 cm, 103.28 kg) and declined gradually to (198 cm, 94.61 kg) in the 2020s.
--  **Career Longevity Leaders**:
+- **Career Longevity Leaders**:
   - Shareef Abdur-Rahim recorded the highest number of games played in a single season (85 games) in the 2003-2004 season, and Charlie Ward played the fewest games (50 games) in the 1998-1999 season. Notably, Dillon Brooks is the only non - U.S. player to lead in single-season games played (73 games) during the 2019-2020 season.
+
+3. **MVP Selection**
+- **Top MVPs** (1996-2023):
+  - Per the analysis, there have been 10 different MVPs from 1996 to 2022.
+  - Shaquille O'Neal, Allen Iverson, and Kevin Durant (5 MVPs) led the pack, with James Harden having 3 MVPs each.
+
+ - **Official vs Analytical MVPs**: Comparing the MVPs derived from the analysis to the NBA official MVPs showed that there were many factors that play a role in determining the final award including team success, individual performance, and player popularity), not just raw statistics.
