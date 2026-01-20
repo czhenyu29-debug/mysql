@@ -48,3 +48,6 @@ People always engage in endless debates over who is the greatest of all time (GO
   - Shaquille O'Neal, Allen Iverson, and Kevin Durant (5 MVPs) led the pack, with James Harden having 3 MVPs each.
 
  - **Official vs Analytical MVPs**: Comparing the MVPs derived from the analysis to the NBA official MVPs showed that there were many factors that play a role in determining the final award including team success, individual performance, and player popularity), not just raw statistics.
+
+## 💭 Conclusionsh
+This project demonstrates how data analytics can reveal hidden trends in basketball performance, player size across eras, and provide a weight calculation on MVP races. By leveraging SQL, statistical models, and basketball insights, I was able to identify season leaders in each statistical category, compare player longevity, and determine who deserves the MVP crown. The findings show that while raw performance matters, team success and player popularity are essential for fair evaluations. Ultimately, the numbers tell a rich story, but they're only part of the game.
